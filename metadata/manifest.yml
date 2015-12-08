@@ -8,7 +8,7 @@ Website: http://www.mysql.com
 Display-Name: MySQL 5.7.9
 Cartridge-Short-Name: MYSQL
 Cartridge-Version: '1.0.1'
-Cartridge-Vendor: 'icflorescu+alibo'
+Cartridge-Vendor: icflorescu_alibo
 Categories:
 - service
 - database
