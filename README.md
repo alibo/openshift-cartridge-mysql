@@ -14,7 +14,7 @@ When you need a quick and unsofisticated solution to run your application with t
 
 To install this cartridge in your existing OpenShift application, go to **"See the list of cartridges you can add"**, paste the URL below in **"Install your own cartridge"** textbox at the bottom of the page and click "Next".
 
-    http://cartreflect-claytondev.rhcloud.com/github/alibo/openshift-cartridge-mysql
+    https://raw.githubusercontent.com/alibo/openshift-cartridge-mysql/master/metadata/manifest.yml
 
 ## Setting up
 
