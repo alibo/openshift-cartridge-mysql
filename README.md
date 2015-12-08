@@ -1,4 +1,4 @@
-# Custom MySQL cartridge for OpenShift
+# Custom MySQL (5.7.9) cartridge for OpenShift
 
 This is a custom OpenShift cartridge able to provide the latest MySQL version (5.7.9-GA)
 
